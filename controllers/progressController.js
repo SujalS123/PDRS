@@ -1,4 +1,4 @@
-const Progress = require("../models/ProgressModel");
+const Progress = require('../models/ProgressModel');
 
 // Fetch daily nutritional intake
 exports.getNutritionSummary = async (req, res) => {
